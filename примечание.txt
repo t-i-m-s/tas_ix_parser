@@ -1,0 +1,3 @@
+файлы Procfile И requirements были созданы для деплоя на Heroku
+в requirements все использованные библиотеки импортированные в код
+для создания бота включая pyTelegramBotApi
